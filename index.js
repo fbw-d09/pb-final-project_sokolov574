@@ -57,7 +57,7 @@ const vulpix = new Pokemon("Vulpix", 103, 116);
 const psyduck = new Pokemon("Psyduck", 120, 127);
 
 //Create winner
-/* let winner;
+let winner;
 if (pikachu.health <= 0) {
   winner = charmander;
 } else if (charmander.health <= 0) {
@@ -70,7 +70,7 @@ if (winner) {
   console.log(`The winner is ${winner.name}!`);
 } else {
   console.log("It's a draw!");
-} */
+}
 
 
 // Pikachu learns two attack skills/////////////////////////////////////////////////////////////////////////
